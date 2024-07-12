@@ -1,4 +1,10 @@
 # expense_tracker_app
+<div style="display: flex; justify-content: space-around;">
+<img src="https://github.com/Ankzcoder/Expense-Tracker-App/blob/master/final_UI_images/Dashboard.png" alt="Index Page" width="200" height="400" style="margin-right: 20px;" >
+
+<img src="https://github.com/Ankzcoder/Expense-Tracker-App/blob/master/final_UI_images/expense_adding_screen.png" alt="Question Page" width="200" height="400" style="margin-right: 20px;" >
+
+</div>
 
 A new Flutter project.
 
