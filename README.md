@@ -1,4 +1,4 @@
-# expense_tracker_app
+# 💸 Expense Tracker App
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/Ankzcoder/Expense-Tracker-App/blob/master/final_UI_images/Dashboard.png" alt="Index Page" width="200" height="400" style="margin-right: 20px;" >
 
@@ -6,7 +6,7 @@
 
 </div>
 
-# 💸 Expense Tracker App
+
 
 ## 📋 Overview
 
